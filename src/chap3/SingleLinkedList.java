@@ -24,5 +24,6 @@ public class SingleLinkedList {
     class Node {
          Integer value;
          Node next;
+         String s1;
     }
 }
